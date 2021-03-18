@@ -1,0 +1,16 @@
+body{
+    background-color: #95bfe9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 23px;
+}
+a, a:visited{
+    color: unset;
+    text-decoration: none;
+    transition: .5s;
+}
+a:hover{
+    color: #E9A395;
+    text-shadow: 2px 2px 1px orangered;
+}

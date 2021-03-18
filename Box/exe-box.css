@@ -1,0 +1,17 @@
+body{
+    font-size: 30px;
+}
+
+div{    
+    background-color: orchid;
+    margin: 10px;
+    border: 10px solid powderblue;
+    padding: 10px 5px;
+}
+
+div:nth-child(2){
+    text-align: center;
+    width: 30%;
+    box-shadow: 5px 5px 0.5rem red;
+    border-radius: 50px;
+}
